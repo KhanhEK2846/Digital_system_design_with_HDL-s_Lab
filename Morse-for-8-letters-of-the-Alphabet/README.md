@@ -14,7 +14,7 @@ Morse-for-8-letters-of-the-Alphabet
 | H          | 111 |
 
 ### Simulation
-![This is an image](Morse-for-8-letters-of-the-Alphabet/images/Screenshot01.png)
+![This is an image](images/Screenshot01.png)
 
 # Author 
 Le Hoang Khanh
